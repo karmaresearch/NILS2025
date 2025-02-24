@@ -80,7 +80,7 @@ At least one author of each accepted paper is expected to register to the worksh
 <i>Dan Roth, University of Pennsylvania and Oracle</i>
 
 <figure class="image">
-<img src="/assets/Roth_dan.jpg" alt="Dan Roth" width=250>
+<img src="{{site.url}}/assets/Roth_dan.jpg" alt="Dan Roth" width=250>
   <figcaption>Image taken from Wikipedia, see <a href="https://commons.wikimedia.org/wiki/File:Roth_dan-057(web).jpg)">here</a></figcaption>
 </figure>
 
