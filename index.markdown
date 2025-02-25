@@ -71,7 +71,7 @@ At least one author of each accepted paper is expected to register to the worksh
 
 ## Organizers
 
-- [Efthymia Tsamoura](), ??
+- [Efthymia Tsamoura](), Huawei Labs
 - [Pablo Barceló](https://pbarcelo.ing.uc.cl/), Universidad Católica de Chile
 - [Jacopo Urbani](https://www.jacopourbani.it), Vrije Universiteit Amsterdam
 
