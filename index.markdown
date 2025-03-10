@@ -77,23 +77,29 @@ At least one author of each accepted paper is expected to register to the worksh
 
 ## Keynotes
 
-<i>Dan Roth, University of Pennsylvania and Oracle</i>
+<strong><i>Dan Roth, University of Pennsylvania and Oracle</i></strong>
 
 <figure class="image">
-<img src="assets/Roth_dan.jpg" alt="Dan Roth" width=250>
+<img src="assets/Roth_dan.jpg" alt="Dan Roth" width=180>
   <figcaption>Image taken from Wikipedia, see <a href="https://commons.wikimedia.org/wiki/File:Roth_dan-057(web).jpg)">here</a></figcaption>
 </figure>
+
+<strong>Title:</strong> TBA
 
 <strong>Bio:</strong> Dan Roth is the Eduardo D. Glandt Distinguished Professor at the Department of Computer and Information Science, University of Pennsylvania and the Chief AI Scientist at Oracle. Until June 2024 Dan was a VP/Distinguished Scientist at AWS AI. In his role at AWS Roth led over the last three years the scientific effort behind the first-generation Generative AI products from AWS, including Titan Models, Amazon Q efforts, and Bedrock, from inception until they became generally available. 
 
 Dan is a Fellow of the AAAS, ACM, AAAI, and ACL. In 2017, Dan was awarded the John 
 McCarthy Award; he was recognized for “for major conceptual and theoretical advances in the modeling of natural language understanding, machine learning, and reasoning.” He has published broadly in natural language processing, machine learning, knowledge representation and reasoning, and learning theory, was the Editor-in-Chief of the Journal of Artificial Intelligence Research (JAIR) and has served as a Program Chair and Conference Chair for the major conferences in his research areas. Roth has been involved in several startups; most recently he was a co-founder and chief scientist of NexLP, a startup that leverages the latest advances in Natural Language Processing, Cognitive Analytics, and Machine Learning in the legal and compliance domains. NexLP was acquired by Reveal. Dan received his B.A Summa cum laude in Mathematics from the Technion, Israel and his Ph.D. in Computer Science from Harvard University in 1995.
 
-<i>Jeff Pan, University of Edinburgh and Huawei Labs</i>
+<strong><i>Jeff Pan, University of Edinburgh and Huawei Labs</i></strong>
 
 <figure class="image">
-<img src="assets/Jeff_Pan.jpg" alt="Jeff Pan" width=250>
+<img src="assets/Jeff_Pan.jpg" alt="Jeff Pan" width=180>
   <figcaption>Image taken from <a href="https://knowledge-representation.org/j.z.pan/">here</a></figcaption>
 </figure>
+
+<strong>Title:</strong> Decoding the Interaction of Symbolic and Parametric Knowledge
+ 
+<strong>Abstract:</strong> Large Language Models (LLMs) have taken Knowledge Representation – and the world – by storm. This inflection point marks a shift from symbolic knowledge representation to a renewed focus on the hybrid representation of both symbolic knowledge and parametric knowledge. This is a big step for the field of Knowledge Representation. In this talk, I will briefly introduce some initial findings in such a big step. If time allows, I will also  speculate on opportunities and visions that the renewed focus brings.
 
 <strong>Bio:</strong> Jeff Pan is professor of knowledge computing in the School of Informatics at the University of Edinburgh. He is a chair of the Knowledge Graphs group at the Alan Turing Institute. He is the Chief Editor and main author of the first book on Knowledge Graph. Recently, he teamed up with many group leaders in the world on a visionary paper on large language models and knowledge graphs ([LINK](https://drops.dagstuhl.de/storage/08tgdk/tgdk-vol001/tgdk-vol001-issue001/TGDK.1.1.2/TGDK.1.1.2.pdf))
