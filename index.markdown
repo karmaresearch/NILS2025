@@ -47,10 +47,10 @@ At least one author of each accepted paper is expected to register to the worksh
 
 ## Important Dates
 
-- Paper submission: Friday, May 30th, 2025.
-- Notification of acceptance: Friday, June 27th, 2025.
-- Camera-ready submission: Friday, July 11th, 2025.
-- Workshop Date: September 5th, 2025.
+- Paper submission: <strong>Friday, May 30th, 2025.</strong>
+- Notification of acceptance: <strong>Friday, June 27th, 2025.</strong>
+- Camera-ready submission: <strong>Friday, July 11th, 2025.</strong>
+- Workshop Date: <strong>September 5th, 2025.</strong>
 
 ## Keynotes
 
@@ -83,23 +83,22 @@ McCarthy Award; he was recognized for “for major conceptual and theoretical ad
 
 ## Program Committee
 
-- Victor Gutierrez Basulto, Cardiff University
-- Vaishak Belle, University of Edinburgh
-- Angela Bonifati, Lyon 1 University
-- Gianluca Cima, Sapienza University of Rome
-- Floris Geerts, University of Antwerp
-- Christoph Haase, University of Oxford
-- Ziyang Li, University of Pennsylvania
-- Ankur Mali, University of South Florida
-- Nikos Ntarmos, Huawei Labs
-- Jeff Pan, University of Edinburgh and Huawei Labs
-- Hai Pham, Samsung AI
-- Ernesto Jimenez Ruiz, City St George's, University of London
-- Luciano Serafini, Fondazione Bruno Kessler
-- Gerardo I. Simari, Universidad Nacional del Sur
+- <strong>Victor Gutierrez Basulto,</strong> Cardiff University
+- <strong>Vaishak Belle,</strong> University of Edinburgh
+- <strong>Angela Bonifati,</strong> Lyon 1 University
+- <strong>Gianluca Cima,</strong> Sapienza University of Rome
+- <strong>Floris Geerts,</strong> University of Antwerp
+- <strong>Christoph Haase,</strong> University of Oxford
+- <strong>Ziyang Li,</strong> University of Pennsylvania
+- <strong>Ankur Mali,</strong> University of South Florida
+- <strong>Nikos Ntarmos,</strong> Huawei Labs
+- <strong>Hai Pham,</strong> Samsung AI
+- <strong>Ernesto Jimenez Ruiz,</strong> City St George's, University of London
+- <strong>Luciano Serafini,</strong> Fondazione Bruno Kessler
+- <strong>Gerardo I. Simari,</strong> Universidad Nacional del Sur
 
 ## Organizers
 
-- [Efthymia Tsamoura](), Huawei Labs
+- [Efthymia Tsamoura](), <i>moving to</i> Huawei Labs
 - [Pablo Barceló](https://pbarcelo.ing.uc.cl/), Universidad Católica de Chile
 - [Jacopo Urbani](https://www.jacopourbani.it), Vrije Universiteit Amsterdam
