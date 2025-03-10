@@ -7,7 +7,8 @@ layout: home
 
 ![VLDB 2025](https://vldb.org/2025/img/vldb2025_logo_simple.png)
 
-# 1st Workshop on New Ideas for Large-Scale Neurosymbolic Learning Systems (LS-NSL), co-located with [VLDB 2025](https://vldb.org/2025/), September 5th, 2025
+# 1st Workshop on New Ideas for Large-Scale Neurosymbolic Learning Systems (LS-NSL) 
+<i>Co-located with [VLDB 2025](https://vldb.org/2025/), September 5th, 2025.</i>
 
 ## About
 
