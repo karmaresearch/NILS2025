@@ -84,7 +84,6 @@ At least one author of each accepted paper is expected to register to the worksh
   <figcaption>Image taken from Wikipedia, see <a href="https://commons.wikimedia.org/wiki/File:Roth_dan-057(web).jpg)">here</a></figcaption>
 </figure>
 
-
 <strong>Bio:</strong> Dan Roth is the Eduardo D. Glandt Distinguished Professor at the Department of Computer and Information Science, University of Pennsylvania and the Chief AI Scientist at Oracle. Until June 2024 Dan was a VP/Distinguished Scientist at AWS AI. In his role at AWS Roth led over the last three years the scientific effort behind the first-generation Generative AI products from AWS, including Titan Models, Amazon Q efforts, and Bedrock, from inception until they became generally available. 
 
 Dan is a Fellow of the AAAS, ACM, AAAI, and ACL. In 2017, Dan was awarded the John 
@@ -92,4 +91,9 @@ McCarthy Award; he was recognized for “for major conceptual and theoretical ad
 
 <i>Jeff Pan, University of Edinburgh and Huawei Labs</i>
 
-<strong>Bio:</strong> TBA
+<figure class="image">
+<img src="assets/Jeff_Pan.jpg" alt="Jeff Pan" width=250>
+  <figcaption>Image taken from <a href="https://knowledge-representation.org/j.z.pan/">here</a></figcaption>
+</figure>
+
+<strong>Bio:</strong> Jeff Pan is professor of knowledge computing in the School of Informatics at the University of Edinburgh. He is a chair of the Knowledge Graphs group at the Alan Turing Institute. He is the Chief Editor and main author of the first book on Knowledge Graph. Recently, he teamed up with many group leaders in the world on a visionary paper on large language models and knowledge graphs ([LINK](https://drops.dagstuhl.de/storage/08tgdk/tgdk-vol001/tgdk-vol001-issue001/TGDK.1.1.2/TGDK.1.1.2.pdf))
