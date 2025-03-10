@@ -7,9 +7,7 @@ layout: home
 
 ![VLDB 2025](https://vldb.org/2025/img/vldb2025_logo_simple.png)
 
-## In a nutshell ...
-
-NILS will be a workshop on neurosymbolic learning co-located with [VLDB 2025](https://vldb.org/2025/) -- September 5th, 2025. See below for more info.
+# 1st Workshop on New Ideas for Large-Scale Neurosymbolic Learning Systems (LS-NSL), co-located with [VLDB 2025](https://vldb.org/2025/), September 5th, 2025
 
 ## About
 
