@@ -15,14 +15,12 @@ NILS will be a workshop on neurosymbolic learning co-located with [VLDB 2025](ht
 
 Deep learning has been a striking success in various fields from engineering and science. However, the criticism against it is getting bigger as scientists and practitioners apply it more broadly. Neurosymbolic learning (NSL) vows to transform deep learning by combining the strong induction capabilities of neural models with rigorous deduction from symbolic knowledge representation and reasoning techniques. Despite that NSL has shown its potential in different application domains, including image and video understanding, natural language processing, and data management, several questions remain open regarding whether current techniques are mature enough to be applied to large-scale, real-world problems. 
 
-## Workshop Aims
-
-The aims of this workshop are:
-- To identify key large-scale, real-world scenarios from different domains, such as computer vision and data management, that can benefit from NSL techniques. 
-- To identify key techniques from the database literature that could enhance NSL techniques for training and inference.  
-- To identify new theoretical and engineering challenges that arise when integrating deep networks with symbolic systems and propose solutions towards overcoming them. 
-- To discuss scalable techniques for training deep networks using symbolic solvers. 
-- To investigate benchmarks across different application domains to assess the strengths of NSL techniques in runtime efficiency, task-specific accuracy, and other aspects.
+This workshop aims to:
+- Identify key large-scale, real-world scenarios from different domains, such as computer vision and data management, that can benefit from NSL techniques. 
+- Identify key techniques from the database literature that could enhance NSL techniques for training and inference.  
+- Identify new theoretical and engineering challenges that arise when integrating deep networks with symbolic systems and propose solutions towards overcoming them. 
+- Discuss scalable techniques for training deep networks using symbolic solvers. 
+- Investigate benchmarks across different application domains to assess the strengths of NSL techniques in runtime efficiency, task-specific accuracy, and other aspects.
 
 ## Topics of Interest
 
