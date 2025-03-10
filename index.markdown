@@ -97,6 +97,6 @@ McCarthy Award; he was recognized for “for major conceptual and theoretical ad
 
 ## Organizers
 
-- [Efthymia Tsamoura](), <i>moving to</i> Huawei Labs
+- [Efthymia Tsamoura](), <i>joining</i> Huawei Labs
 - [Pablo Barceló](https://pbarcelo.ing.uc.cl/), Universidad Católica de Chile
 - [Jacopo Urbani](https://www.jacopourbani.it), Vrije Universiteit Amsterdam
