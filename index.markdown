@@ -9,7 +9,7 @@ layout: home
 
 ## In a nutshell ...
 
-NILS will be a workshop on neuro-symbolic reasoning co-located with [VLDB 2025](https://vldb.org/2025/) -- September 5th, 2025. See below for more info.
+NILS will be a workshop on neurosymbolic learning co-located with [VLDB 2025](https://vldb.org/2025/) -- September 5th, 2025. See below for more info.
 
 ## About
 
