@@ -58,7 +58,6 @@ At least one author of each accepted paper is expected to register to the worksh
 
 <figure class="image">
 <img src="assets/Roth_dan.jpg" alt="Dan Roth" width=160>
-  %<figcaption>Image taken from Wikipedia, see <a href="https://commons.wikimedia.org/wiki/File:Roth_dan-057(web).jpg)">here</a></figcaption>
 </figure>
 
 <strong>Title:</strong> TBA
@@ -72,7 +71,6 @@ McCarthy Award; he was recognized for “for major conceptual and theoretical ad
 
 <figure class="image">
 <img src="assets/Jeff_Pan.jpg" alt="Jeff Pan" width=160>
-  %<figcaption>Image taken from <a href="https://knowledge-representation.org/j.z.pan/">here</a></figcaption>
 </figure>
 
 <strong>Title:</strong> Decoding the Interaction of Symbolic and Parametric Knowledge
