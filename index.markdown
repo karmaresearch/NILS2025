@@ -38,7 +38,7 @@ The topics of interest include (but are not limited to):
 
 ## Call For Contributions
 
-We welcome regular papers (up to eight pages, excluding the bibliography) that present complete novel research outcomes not previously presented elsewhere and extended abstracts (up to four pages) on preliminary results that can trigger discussions. We also welcome papers accepted by VLDB 2025 or other recent top-tier AI, machine learning, and database venues. The submissions will be single-blind and the conflicts of interest will be handled by adhering to the “Conflict and Authorship” guidelines adopted by VLDB 2025.
+We welcome <strong>regular papers (up to eight pages, excluding the bibliography)</strong> that present complete novel research outcomes not previously presented elsewhere and <strong>extended abstracts (up to four pages)</strong> on preliminary results that can trigger discussions. We also welcome <strong>papers accepted by VLDB 2025 or other recent top-tier AI, machine learning, and database venues</strong>. The submissions will be single-blind and the conflicts of interest will be handled by adhering to the “Conflict and Authorship” guidelines adopted by VLDB 2025.
 
 At least one author of each accepted paper is expected to register to the workshop and give an oral presentation.
 
