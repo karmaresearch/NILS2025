@@ -41,6 +41,10 @@ We welcome <strong>regular papers (up to eight pages, including the bibliography
 
 The proceedings of all papers accepted will be hosted by VLDB.
 
+## Paper submission  
+
+Papers will be formatted using the VLDB 2025 style files. The paper submission system will be open soon. 
+
 ## Important Dates
 
 - Paper submission: <strong>Friday, May 30th, 2025.</strong>
