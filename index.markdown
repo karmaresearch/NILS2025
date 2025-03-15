@@ -37,13 +37,19 @@ The topics of interest include (but are not limited to):
 
 ## Call For Contributions
 
-We welcome <strong>regular papers (up to eight pages, including the bibliography)</strong> that present complete novel research outcomes not previously presented elsewhere and <strong>extended abstracts (up to four pages, including the bibliography)</strong> on preliminary results that can trigger discussions. We also welcome <strong>papers accepted by VLDB 2025 or other recent top-tier AI, machine learning, and database venues</strong>. The submissions will be single-blind and the conflicts of interest will be handled by adhering to the “Conflict and Authorship” guidelines adopted by VLDB 2025. At least one author of each accepted paper is expected to register to the workshop and give an oral presentation.
+We welcome <strong>regular papers (up to eight pages, including the bibliography)</strong> that present complete novel research outcomes not previously presented elsewhere and <strong>extended abstracts (up to four pages, including the bibliography)</strong> on preliminary results that can trigger discussions. We also welcome <strong>papers accepted by VLDB 2025 or other recent top-tier AI, machine learning, and database venues</strong>. At least one author of each accepted paper is expected to register to the workshop and give an oral presentation.
 
 The proceedings of all papers accepted will be hosted by VLDB.
 
-## Paper submission  
+## Paper submission instructions   
 
-Papers will be formatted using the VLDB 2025 style files. The paper submission system will be open soon. 
+Papers must submitted in pdf format and use the [VLDB 2025 template](https://www.vldb.org/pvldb/volumes/18/formatting).
+The submissions will be single-blind and the conflicts of interest must follow 
+the [conflict of interest policy for ACM publications](https://www.acm.org/publications/policies/conflict-of-interest). 
+
+The paper submission system will be open soon. 
+
+
 
 ## Important Dates
 
