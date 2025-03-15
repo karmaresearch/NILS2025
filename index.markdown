@@ -41,14 +41,13 @@ We welcome <strong>regular papers (up to eight pages, including the bibliography
 
 The proceedings of all papers accepted will be hosted by VLDB.
 
-## Paper submission instructions   
+## Paper Submission Instructions   
 
-Papers must submitted in pdf format and use the [VLDB 2025 template](https://www.vldb.org/pvldb/volumes/18/formatting).
-The submissions will be single-blind and the conflicts of interest must follow 
+Submitted manuscripts must be in pdf format and use the [VLDB 2025 template](https://www.vldb.org/pvldb/volumes/18/formatting).
+The submissions will be single-blind and the authors should comply with  
 the [conflict of interest policy for ACM publications](https://www.acm.org/publications/policies/conflict-of-interest). 
 
 The paper submission system will be open soon. 
-
 
 
 ## Important Dates
