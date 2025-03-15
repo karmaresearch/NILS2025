@@ -9,8 +9,7 @@ layout: home
 
 # 1st Workshop on New Ideas for Large-Scale Neurosymbolic Learning Systems (LS-NSL) 
 
-<i>Held in conjunction with the [51st International Conference on Very Large Data Bases (VLDB)
-London](https://vldb.org/2025/), United Kingdom - September 5, 2025.</i>
+<i>Held in conjunction with the [51st International Conference on Very Large Data Bases (VLDB)](https://vldb.org/2025/), London, United Kingdom - September 5, 2025.</i>
 
 
 ## About
