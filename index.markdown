@@ -48,7 +48,7 @@ The proceedings of all papers accepted will be hosted by VLDB.
 Submitted manuscripts must be in pdf format and use the [VLDB 2025 template](https://www.vldb.org/pvldb/volumes/18/formatting).
 The submissions will be single-blind and the authors should comply with the [conflict of interest policy for ACM publications](https://www.acm.org/publications/policies/conflict-of-interest). 
 
-<strong>Submission site:</strong> [https://cmt3.research.microsoft.com/LSNSL2025/](https://cmt3.research.microsoft.com/LSNSL2025/).
+<strong>Submission site:</strong> [https://cmt3.research.microsoft.com/LSNSL2025/](https://cmt3.research.microsoft.com/LSNSL2025/)
 
 
 <strong>Acknowledgement:</strong> The [Microsoft CMT service](https://cmt3.research.microsoft.com/) was used for managing the peer-reviewing process for this conference. This service was provided for free by Microsoft and they bore all expenses, including costs for Azure cloud services as well as for software development and support.
