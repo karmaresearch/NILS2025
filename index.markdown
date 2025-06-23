@@ -57,7 +57,7 @@ The submissions will be single-blind and the authors should comply with the [con
 ## Important Dates
 
 - Paper submission: ~~Friday, May 30th, 2025~~  <strong>Friday, June 6th, 2025.</strong>
-- Notification of acceptance: ~~Friday, June 27th, 2025~~ <strong>Monday, July 4th, 2025.</strong>
+- Notification of acceptance: ~~Friday, June 27th, 2025~~ Monday, July 4th, 2025.</strong>
 - Camera-ready submission: <strong>Friday, July 11th, 2025.</strong>
 - Workshop Date: <strong>September 5th, 2025.</strong>
 
