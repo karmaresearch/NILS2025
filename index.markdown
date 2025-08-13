@@ -66,14 +66,15 @@ The submissions will be single-blind and the authors should comply with the [con
 
 The workshop will be held on September 5, 2025, at the [Queen Elizabeth II Centre (QEII Centre)](https://vldb.org/2025/?info-conference-venue), London, UK, room <strong>Albert</strong>. 
 
-- [1.30 - 2.15]. Keynote by Dan Roth. Title: TBA 
-- [2.15 - 2.30]. Hoa Le Thi, Angela Bonifati, Andrea Mauri. <strong>Graph Consistency Rule Mining with LLMs: An Exploratory Study</strong> 
-- [2.30 - 2.45]. Abelardo Carlos Martinez Lorenzo, Alexander Perfilyev, Volker Markl, Martha Clokie, Thomas Sicheritz-Pontén, Zoi Kaoudi. <strong>Modular Neuro-Symbolic Knowledge Graph Completion</strong> 
-- [2.45 - 3.00]. Cheng Zhen, Nischal Aryal, Arash Termehchy, Amandeep Singh Chabada. <strong>Certain and Approximately Certain Models for Statistical Learning</strong> 
-- [3.30 - 4.15]. Keynote by Jeff Pan. <strong>Decoding the Interaction of Symbolic and Parametric Knowledge</strong> 
-- [4.15 - 4.30]. Pravana Madhyastha. <strong>ASP Scaffolds for Robust Reasoning and Decoding</strong>
-- [4.30 - 4.45]. Jasmin Mousavi, Bishwash Kc, Arash Termehcy. <strong>Representation Invariance of GNNs: Going Beyond Isomorphism</strong>
-- [4.45 - 5.00]. Mykhailo Buleshnyi, Anna Polova, Zsolt Zombori, Michael Benedikt. <strong>Constraint-aware Learning of Probabilistic Sequential Models for Multi-Label Classification</strong> 
+- [1.30 pm - 2.15 pm]. Keynote by Dan Roth. Title: TBA 
+- [2.15 pm - 2.30 pm]. Hoa Le Thi, Angela Bonifati, Andrea Mauri. <strong>Graph Consistency Rule Mining with LLMs: An Exploratory Study</strong> 
+- [2.30 pm - 2.45 pm]. Abelardo Carlos Martinez Lorenzo, Alexander Perfilyev, Volker Markl, Martha Clokie, Thomas Sicheritz-Pontén, Zoi Kaoudi. <strong>Modular Neuro-Symbolic Knowledge Graph Completion</strong> 
+- [2.45 pm - 3.00 pm]. Cheng Zhen, Nischal Aryal, Arash Termehchy, Amandeep Singh Chabada. <strong>Certain and Approximately Certain Models for Statistical Learning</strong> 
+- [3.00 pm - 3.30 pm]. Coffee break 
+- [3.30 pm - 4.15 pm]. Keynote by Jeff Pan. <strong>Decoding the Interaction of Symbolic and Parametric Knowledge</strong> 
+- [4.15 pm - 4.30 pm]. Pravana Madhyastha. <strong>ASP Scaffolds for Robust Reasoning and Decoding</strong>
+- [4.30 pm - 4.45 pm]. Jasmin Mousavi, Bishwash Kc, Arash Termehcy. <strong>Representation Invariance of GNNs: Going Beyond Isomorphism</strong>
+- [4.45 pm - 5.00 pm]. Mykhailo Buleshnyi, Anna Polova, Zsolt Zombori, Michael Benedikt. <strong>Constraint-aware Learning of Probabilistic Sequential Models for Multi-Label Classification</strong> 
 
 
 ## Keynotes
