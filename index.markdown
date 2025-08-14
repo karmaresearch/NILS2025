@@ -56,8 +56,8 @@ The submissions will be single-blind and the authors should comply with the [con
 
 ## Important Dates
 
-- Paper submission: ~~Friday, May 30th, 2025~~  <strong>Friday, June 6th, 2025.</strong>
-- Notification of acceptance: ~~Friday, June 27th, 2025~~ <strong> Monday, July 4th, 2025.</strong>
+- Paper submission: ~~Friday, May 30th, 2025~~  
+- Notification of acceptance: ~~Friday, June 27th, 2025~~ 
 - Camera-ready submission: ~~<strong>Friday, July 11th, 2025.</strong>~~
 - Workshop Date: <strong>September 5th, 2025.</strong>
 
@@ -66,7 +66,7 @@ The submissions will be single-blind and the authors should comply with the [con
 
 The workshop will be held on September 5, 2025, at the [Queen Elizabeth II Centre (QEII Centre)](https://vldb.org/2025/?info-conference-venue), London, UK, room <strong>Albert</strong>. 
 
-- [1.30 pm - 2.15 pm]. Keynote by Dan Roth. Title: TBA 
+- [1.30 pm - 2.15 pm]. Keynote by Dan Roth. <strong>On Retrieving &amp; Reasoning LLMs: Myths, Merits, and How to Move Forward</strong>
 - [2.15 pm - 2.30 pm]. Hoa Le Thi, Angela Bonifati, Andrea Mauri. <strong>Graph Consistency Rule Mining with LLMs: An Exploratory Study</strong> 
 - [2.30 pm - 2.45 pm]. Abelardo Carlos Martinez Lorenzo, Alexander Perfilyev, Volker Markl, Martha Clokie, Thomas Sicheritz-Pontén, Zoi Kaoudi. <strong>Modular Neuro-Symbolic Knowledge Graph Completion</strong> 
 - [2.45 pm - 3.00 pm]. Cheng Zhen, Nischal Aryal, Arash Termehchy, Amandeep Singh Chabada. <strong>Certain and Approximately Certain Models for Statistical Learning</strong> 
@@ -82,23 +82,42 @@ The workshop will be held on September 5, 2025, at the [Queen Elizabeth II Centr
 <strong><i>Dan Roth, University of Pennsylvania and Oracle</i></strong>
 
 <figure class="image">
-<img src="assets/Roth_dan.jpg" alt="Dan Roth" width=150>
+<img src="assets/Roth_dan.jpg" alt="Dan Roth" width=130>
 </figure>
 
-<strong>Title:</strong> TBA
+<strong>Title: On Retrieving &amp; Reasoning LLMs: Myths, Merits, and How to Move Forward </strong>
 
-<strong>Bio:</strong> Dan Roth is the Eduardo D. Glandt Distinguished Professor at the Department of Computer and Information Science, University of Pennsylvania and the Chief AI Scientist at Oracle. Until June 2024 Dan was a VP/Distinguished Scientist at AWS AI. In his role at AWS Roth led over the last three years the scientific effort behind the first-generation Generative AI products from AWS, including Titan Models, Amazon Q efforts, and Bedrock, from inception until they became generally available. 
+<strong>Abstract:</strong> The rapid progress made over the last few years in generating linguistically coherent natural language
+has blurred, in the mind of many, the difference between natural language generation, understanding,
+knowledge retrieval and use, and the ability to reason with respect to the world.
+Nevertheless, reliably and consistently supporting high-level decisions that depend on natural language
+understanding and heterogenous information retrieval is still difficult, mostly, but not only, since most
+of these tasks are computationally more complex than language models can support.
+I will discuss some of the challenges underlying reasoning and information access and argue that we
+should exploit what LLMs do well while delegating responsibility to special purpose models and solvers
+for decision making. I will present some of our work in this space, focusing on supporting reasoning and
+information access via Neuro-symbolic methods.
 
-Dan is a Fellow of the AAAS, ACM, AAAI, and ACL. In 2017, Dan was awarded the John 
-McCarthy Award; he was recognized for “for major conceptual and theoretical advances in the modeling of natural language understanding, machine learning, and reasoning.” He has published broadly in natural language processing, machine learning, knowledge representation and reasoning, and learning theory, was the Editor-in-Chief of the Journal of Artificial Intelligence Research (JAIR) and has served as a Program Chair and Conference Chair for the major conferences in his research areas. Roth has been involved in several startups; most recently he was a co-founder and chief scientist of NexLP, a startup that leverages the latest advances in Natural Language Processing, Cognitive Analytics, and Machine Learning in the legal and compliance domains. NexLP was acquired by Reveal. Dan received his B.A Summa cum laude in Mathematics from the Technion, Israel and his Ph.D. in Computer Science from Harvard University in 1995.
+<strong>Bio:</strong> Dan Roth is the Eduardo D. Glandt Distinguished Professor at the University of Pennsylvania and Chief AI
+Scientist at Oracle. Until June 2024 Dan was a VP/Distinguished Scientist at AWS AI where he led the
+scientific effort behind Amazon’s first-generation GenAI products, including Titan Models, Amazon Q,
+and Amazon Bedrock. Dan is a Fellow of the AAAS, ACM, AAAI, and ACL, and a recipient of the IJCAI
+John McCarthy Award “for major conceptual and theoretical advances in the modeling of natural
+language understanding, machine learning, and reasoning.” He has published broadly in natural
+language processing, machine learning, knowledge representation and reasoning, and learning theory,
+was the Editor-in-Chief of the Journal of Artificial Intelligence Research (JAIR) and has served as a
+Program Chair and Conference Chair for the major conferences in his research areas. Roth has been
+involved in several ML/NLP/GenAI startups in domains that range from legal and compliance to health
+care. Dan received his B.A Summa cum laude in Mathematics from the Technion, Israel and his Ph.D. in
+Computer Science from Harvard University in 1995.
 
 <strong><i>Jeff Pan, University of Edinburgh and Huawei Labs</i></strong>
 
 <figure class="image">
-<img src="assets/Jeff_Pan.jpg" alt="Jeff Pan" width=150>
+<img src="assets/Jeff_Pan.jpg" alt="Jeff Pan" width=130>
 </figure>
 
-<strong>Title:</strong> Decoding the Interaction of Symbolic and Parametric Knowledge
+<strong>Title: Decoding the Interaction of Symbolic and Parametric Knowledge</strong>
  
 <strong>Abstract:</strong> Large Language Models (LLMs) have taken Knowledge Representation – and the world – by storm. This inflection point marks a shift from symbolic knowledge representation to a renewed focus on the hybrid representation of both symbolic knowledge and parametric knowledge. This is a big step for the field of Knowledge Representation. In this talk, I will briefly introduce some initial findings in such a big step. If time allows, I will also  speculate on opportunities and visions that the renewed focus brings.
 
