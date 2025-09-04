@@ -69,7 +69,7 @@ The workshop will be held on September 5, 2025, at the [Queen Elizabeth II Centr
 - [1.30 pm - 2.15 pm]. Keynote by Dan Roth. <strong>On Retrieving &amp; Reasoning LLMs: Myths, Merits, and How to Move Forward</strong>
 - [2.15 pm - 2.30 pm]. Hoa Le Thi, Angela Bonifati, Andrea Mauri. <strong>Graph Consistency Rule Mining with LLMs: An Exploratory Study</strong> 
 - [2.30 pm - 2.45 pm]. Abelardo Carlos Martinez Lorenzo, Alexander Perfilyev, Volker Markl, Martha Clokie, Thomas Sicheritz-Pontén, Zoi Kaoudi. <strong>Modular Neuro-Symbolic Knowledge Graph Completion</strong> 
-- [2.45 pm - 3.00 pm]. Essam Mansour. <strong>TBD</strong> 
+- [2.45 pm - 3.00 pm]. Essam Mansour. <strong>AI-Enabled Query Engine: LLM-GNN Integration for Evolving and Incomplete Knowledge Graphs</strong> 
 - [3.00 pm - 3.30 pm]. Coffee break 
 - [3.30 pm - 4.15 pm]. Keynote by Jeff Pan. <strong>Decoding the Interaction of Symbolic and Parametric Knowledge</strong> 
 - [4.15 pm - 4.30 pm]. Pravana Madhyastha. <strong>ASP Scaffolds for Robust Reasoning and Decoding</strong>
