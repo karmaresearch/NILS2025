@@ -73,7 +73,7 @@ The workshop will be held on September 5, 2025, at the [Queen Elizabeth II Centr
 - [3.00 pm - 3.30 pm]. Coffee break 
 - [3.30 pm - 4.15 pm]. Keynote by Jeff Pan. <strong>Decoding the Interaction of Symbolic and Parametric Knowledge</strong> 
 - [4.15 pm - 4.30 pm]. Pravana Madhyastha. <strong>ASP Scaffolds for Robust Reasoning and Decoding</strong>
-- [4.30 pm - 4.45 pm]. Jasmin Mousavi, Bishwash Kc, Arash Termehcy. <strong>Representation Invariance of GNNs: Going Beyond Isomorphism</strong>
+- [4.30 pm - 4.45 pm]. Few Shots Text-to-Image Retrieval: New Benchmarking Dataset and Optimization Methods <strong>Ofer Idan</strong>
 - [4.45 pm - 5.00 pm]. Mykhailo Buleshnyi, Anna Polova, Zsolt Zombori, Michael Benedikt. <strong>Constraint-aware Learning of Probabilistic Sequential Models for Multi-Label Classification</strong> 
 
 
